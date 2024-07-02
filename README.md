@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=java,html,css,js,python,fastapi,docker" />
 <br>
+
 ## 🌱 Interests
 <img alt="my interests" src="https://skillicons.dev/icons?theme=light&perline=7&i=ts,react,go" />
 <br>
